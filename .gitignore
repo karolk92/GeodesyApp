@@ -1,0 +1,11 @@
+.idea/
+build/
+classes/
+dist/
+lib/
+nbproject/
+test/
+.classpath
+.project
+baza.txt
+build.xml
